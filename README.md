@@ -1,4 +1,4 @@
-# EXP NO:06
+# EXP NO:05
 # DATE:
 # <p align='center'> MONTE CARLO CONTROL ALGORITHM</p.
 
